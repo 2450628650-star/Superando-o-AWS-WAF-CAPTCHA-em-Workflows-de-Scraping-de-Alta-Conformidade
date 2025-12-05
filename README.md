@@ -120,10 +120,17 @@ O AWS WAF CAPTCHA é uma barreira formidável para aquisição automatizada de d
 
 ## FAQ
 **1. Por que o AWS WAF CAPTCHA é mais difícil que o reCAPTCHA?**
+
 Ele combina desafios JavaScript baseados em token com quebra-cabeças de classificação de imagem. A geração do token é proprietária e atualizada frequentemente. Modelos de IA de serviços como CapSolver são continuamente treinados para lidar com esses desafios.
+
 **2. Solucionadores gratuitos ou open-source conseguem lidar com AWS WAF?**
+
 Não. Soluções gratuitas carecem de atualizações contínuas e sofisticação de IA. Serviços por assinatura são necessários para desempenho confiável.
+
 **3. É possível resolver AWS WAF CAPTCHA sem um serviço terceirizado?**
+
 Tecnicamente sim, mas é impraticável. A lógica de geração do token é complexa e muda frequentemente. Manter um bypass confiável internamente exige esforço contínuo.
+
 **4. Onde os solucionadores de AWS WAF são normalmente usados?**
+
 Empresas de tecnologia jurídica e verificações de antecedentes frequentemente encontram AWS WAF ao coletar dados judiciais ou financeiros. Solucionadores com IA garantem acesso contínuo e de alto rendimento.
