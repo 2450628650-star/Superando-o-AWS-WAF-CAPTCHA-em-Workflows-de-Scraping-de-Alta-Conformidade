@@ -38,6 +38,7 @@ Independente do tipo de desafio, a abordagem principal é usar um solucionador d
 
 **Resgate Seu Código de Bônus do CapSolver**
 Visite o Dashboard do [CapSolver](https://www.capsolver.com/?utm_source=github&utm_medium=blog&utm_campaign=aws&utm_term=oliviab), utilize o código de bônus CAPN ao recarregar sua conta e receba 5% de bônus adicional em cada recarga!
+
 <img width="506" height="287" alt="image" src="https://github.com/user-attachments/assets/b54f6342-bf9d-4311-9027-876370f11a7f" />
 
 **1. Automação Baseada em Navegador com Carregamento de Extensão**
